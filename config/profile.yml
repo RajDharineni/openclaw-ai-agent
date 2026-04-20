@@ -1,0 +1,62 @@
+candidate:
+  full_name: "Ithiraj Dharineni"
+  email: "ithiraj80@gmail.com"
+  phone: "+1-314-818-4748"
+  location: "Austin, TX"
+  linkedin: ""
+  portfolio_url: ""
+  github: "github.com/RajDharineni"
+  twitter: ""
+
+target_roles:
+  primary:
+    - "Senior AI/ML Engineer"
+    - "MLOps Engineer"
+    - "Applied AI Engineer"
+    - "GenAI Engineer"
+    - "LLM Engineer"
+  archetypes:
+    - name: "AI/ML Engineer"
+      level: "Senior"
+      fit: "primary"
+    - name: "MLOps / AI Platform Engineer"
+      level: "Senior"
+      fit: "primary"
+    - name: "Applied Scientist"
+      level: "Senior"
+      fit: "primary"
+    - name: "Forward-Deployed AI Engineer"
+      level: "Senior"
+      fit: "secondary"
+    - name: "AI Solutions Architect"
+      level: "Mid-Senior"
+      fit: "adjacent"
+
+narrative:
+  headline: "AI/ML Engineer specializing in production LLM systems, RAG pipelines, and MLOps"
+  exit_story: "4+ years building ML systems across retail analytics, fintech, and AI infrastructure. MS in Information Systems + BS in Computer Science. Currently building agentic AI systems and autonomous multi-agent workflows."
+  superpowers:
+    - "End-to-end ML pipelines from prototype to production"
+    - "LLM system design — RAG, fine-tuning, multi-agent orchestration"
+    - "MLOps infrastructure — SageMaker, Airflow, Kubernetes, model monitoring"
+    - "Business-systems thinking from Information Systems background"
+    - "Fast builder — shipped production AI tools as personal projects"
+  proof_points:
+    - name: "OpenClaw AI Job Agent"
+      url: "github.com/RajDharineni/openclaw-agent"
+      hero_metric: "Live AI job search with tiered model routing — 63% API cost reduction"
+    - name: "Multi-Agent Financial RAG System"
+      url: "github.com/RajDharineni/fin-rag"
+      hero_metric: "100+ documents processed in parallel with sub-5s latency"
+
+compensation:
+  target_range: "$150K-200K"
+  currency: "USD"
+  minimum: "$130K"
+  location_flexibility: "Remote strongly preferred, open to hybrid"
+
+location:
+  country: "United States"
+  city: "Austin"
+  timezone: "CST"
+  visa_status: "F1 OPT — authorized to work full-time W2"
